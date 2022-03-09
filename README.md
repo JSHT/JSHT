@@ -26,8 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="">
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" alt="">
-  <img src="https://github-readme-stats.vercel.app/api?username=JSHT&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSHT&hide=TeX&layout=compact&theme=radical" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=JSHT&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSHT&hide=TeX&layout=compact&theme=radical" alt="">
 </div>
 
 
